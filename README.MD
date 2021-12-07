@@ -43,6 +43,6 @@ You can access the website in this [Link](https://mygoals.vercel.app/), but righ
 
 </br>
 
-#### Don't waste your time translate this, is nothing important, it's only a signature!!!
+#### Don't waste your time translating this, it's nothing important, it's only a signature!!!
 
 `01000110 01110101 01100011 01101011 01101001 01101110 01100111 00100000 01101110 01100101 01110010 01100100`
