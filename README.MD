@@ -1,7 +1,7 @@
 # Hi I'm James
 
 <p align='center'>
-I'm software developer passionate for creating something beautiful, useful, something that impacts people.
+I'm software developer passionate for creating something beautiful,something useful, something that impacts people.
 </br>
 Currently building my path to become a Full Stack Developer.
 </p>
@@ -34,7 +34,7 @@ You can access the website in this [Link](https://mygoals.vercel.app/), but righ
 </br>
 
 [![James Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesjlv&layout=compact&langs_count=7&theme=dracula)](https://github.com/jamesjlv)
-[![James Github Stats](https://github-readme-stats.vercel.app/api?username=jamesjlv&hide=contribs,prs&theme=dracula)](https://github.com/jamesjlv)
+[![James Github Stats](https://github-readme-stats.vercel.app/api?username=jamesjlv&hide=contribs&theme=dracula)](https://github.com/jamesjlv)
 
 ## Social Media
 
