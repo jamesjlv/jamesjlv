@@ -19,16 +19,6 @@ Currently building my path to become a Full Stack Developer.
 
 </br>
 
-## Current personal project
-
-</br>
-
-Here you can find my personal project that I'm currently build, it's call My Goals (Minhas Metas), it's Website for you to control your goals.
-
-You can access the website in this [Link](https://mygoals.vercel.app/), but right now you can only access with a Google Account, in the next versions you will be capable to Log In with other services. Keep an eye out for new versions.
-
-</br>
-
 ## Github Profile Status
 
 </br>
