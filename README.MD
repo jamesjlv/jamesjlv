@@ -7,7 +7,7 @@ I love turning complex problems into simple, polished, and fast experiences.
 ---
 
 ## 🚀 What I Do
-- React Native, TypeScript, Three.js & 3D animations  
+- React Native, TypeScript, GCP, JavaScript, Three.js, 3D animations, Reanimated, Expo, Firebase, and Deployment workflow for Apple and Google Stores.
 - Mobile performance optimization  
 - Firebase, BigQuery, GA4, PostHog & analytics pipelines  
 - Clean Architecture, TDD, SOLID, design systems  
